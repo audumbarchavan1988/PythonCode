@@ -225,5 +225,7 @@ obj = C()
 obj.m2()
 obj.m1()
 
+def add():
+ahbhbsadhkjjh
 
 

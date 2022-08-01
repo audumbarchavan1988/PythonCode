@@ -1,0 +1,7 @@
+git status
+
+git add filename # single file add
+
+git add filename1 filename2 filenamen  # multiple files add
+
+git add . #all file will add
